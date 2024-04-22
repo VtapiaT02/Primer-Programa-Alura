@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54f1f40c-0939-457c-864c-e8fad3e8b72a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primerprograma.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adivinanza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Banco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConversionTemperaturas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Decisiones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Evaluaciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="54f1f40c-0939-457c-864c-e8fad3e8b72a" name="Changes" comment="Subiendo proyectos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,28 +29,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Adivinanza.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Banco.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConversionTemperaturas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Decisiones.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Evaluaciones.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lectura.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Loops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Adivinanza.executor": "Run",
+    "Application.Banco.executor": "Run",
+    "Application.ConversionTemperaturas.executor": "Run",
+    "Application.Decisiones.executor": "Run",
+    "Application.Evaluaciones.executor": "Run",
+    "Application.Lectura.executor": "Run",
+    "Application.Loops.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Decisiones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Decisiones" />
@@ -104,10 +93,35 @@
       <workItem from="1713624005327" duration="4612000" />
       <workItem from="1713701067201" duration="3828000" />
       <workItem from="1713754299705" duration="843000" />
+      <workItem from="1713755279403" duration="253000" />
     </task>
+    <task id="LOCAL-00001" summary="Subiendo proyectos">
+      <option name="closed" value="true" />
+      <created>1713755355913</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713755355913</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Subiendo proyectos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Subiendo proyectos" />
   </component>
 </project>
